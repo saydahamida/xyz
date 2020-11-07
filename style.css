@@ -1,21 +1,37 @@
 *{
-	max-width: 1100px;
-	margin: 2px auto;
+	max-width: 1200px;
+	margin: 1px auto;
 }
 #start{
 	
 	
 }
 .logo{
-	width: 5%;
+	width: 15%;
 	float: left;
-    margin: 1px;
-    padding: 1px; 	 
+    margin: 0px;
+    padding: 0px; 	 
 }
+
+
+.intro{
+	text-align: center;
+}
+h1{
+	color: blue;
+	background-color: green;
+}
+h2{
+	color: black;
+	background:pink;
+}
+
 
 .menu{
 	float: left;
-    width: 80%;
+    width: 60%;
+	margin:5px;
+	padding:1px;
 }
 .menu ul{
 	
@@ -31,17 +47,4 @@
 	text-decoration: none;
 	color: gray;
 	background: black;
-}
-
-.intro{
-	font-size: 50%;
-	text-align: center;
-}
-h1{
-	color: blue;
-	background-color: green;
-}
-h2{
-	color: black;
-	background:pink;
 }
