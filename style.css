@@ -1,3 +1,26 @@
-.background{
-
+background{
+    color: gray;
 }
+*{
+	margin: 3px;
+	padding: 5px;	
+}
+#start{
+	
+}
+.logo{
+	
+}
+.intro{
+	
+}
+h1{
+	color: light blue;
+	font-size: 100px;
+	background-color: green;
+}
+h2{
+	color: pink;
+	background: dark blue;
+}
+
